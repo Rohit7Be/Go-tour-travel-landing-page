@@ -3,7 +3,7 @@ Here is my second landing page.<br> I have created this using my css skills and 
 <br> The agency name is Go-tour. <br> I thought of the name by myself.
 
 <br>
-Here is a screenshot of my project...<3
+Here is a glimpse of my project...<3
 <br>
 
 ![landingpage](https://github.com/user-attachments/assets/ed3faf63-333f-4686-8bdd-8d39a642fc16)
